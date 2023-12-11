@@ -1,2 +1,2 @@
 # Word-Network
-请使用sql文件运行数据库，剩余的内容我会帮大家使用。
+一个关于单词网络的小项目，前端用Vue整合Echarts，后端用SpringBoot实现简单单词网络的构建等。
